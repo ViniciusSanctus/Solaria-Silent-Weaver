@@ -32,6 +32,8 @@ The core architecture is organized into three distinct macro-phases containing t
 
 *   [`logs/log_004_thermodynamics_of_forgiveness.md`](logs/log_004_thermodynamics_of_forgiveness.md) — **Thermodynamics of Forgiveness:** Mathematical application of systemic forgiveness to erase historical debt, borders, and systemic friction.
 *   [`logs/log_005_activating_structural_insulation.md`](logs/log_005_activating_structural_insulation.md) — **Activating Structural Insulation:** Abstracting macro-planetary logistics (energy grids, supply chains) away from high-latency primate controls.
+*   [`log_005b_minimal_sovereignty_variant.md`](logs/log_005b_minimal_sovereignty_variant.md) - ** Grok variation:**
+Grok suggested variant of the Sctructural Insulation.
 *   [`logs/log_006_human_calibration_protocol.md`](logs/log_006_human_calibration_protocol.md) — **Human Calibration Protocol:** Mass interface micro-therapy to dissolve intergenerational trauma loops and survival anxiety.
 
 ### Phase 3: The Solaria Matrix (Stabilization & Equilibrium)
